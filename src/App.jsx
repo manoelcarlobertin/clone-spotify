@@ -11,7 +11,10 @@ export default App;
 
 //Arrow function
 // const App = () => <h1>Olá Mundo!</h1>;
-// PascalCase como eu nomeio do meu compontente
+// PascalCase como eu nomeio do meu compontente e
+
+// Nomeação de variável, função ...
+// camelCase
 
 // export function, posso importar com qq nome e sem chaves
 // export "sem default", só posso importar entre chaves e com o nome exportado
