@@ -6,17 +6,9 @@ const Header = () => {
     <div>
       <img src={logoSpotify} alt="Logo do Spotify" />
 
-      <a href="https://">
-      
+      <a href="/">
         <h1>Spotify</h1>
       </a>
-      <p>Sua plataforma de música</p>
-      <button>Iniciar Sessão</button>
-      <button>Criar Conta</button>
-      <button>Ajuda</button>
-      <button>Conectar-se com outros aplicativos</button>
-      <button>Área Restrita</button>
-      <button>Sair</button>
     </div>
   );
 };
