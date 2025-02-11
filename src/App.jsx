@@ -1,14 +1,11 @@
 // import React from "react";
-// Import the Header component
-import Header from './components/Header';
+import Header from "./components/Header";
 
 const App = () => {
-
-
   return <Header />;
 };
 
-export default App
+export default App;
 
 // rafce
 
