@@ -1,6 +1,6 @@
 // import React from "react";
 // Import the Header component
-import Header from './Header';
+import Header from './components/Header';
 
 const App = () => {
 
